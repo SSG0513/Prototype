@@ -1,0 +1,21 @@
+name,description,type,location,orgform,operatdate,link,keywords,target,supporter
+Place_1,Description for Place_1,Restaurant,"48.196524, 16.435827",Limited Company,Weekends,https://www.Place_1.com,"Restaurant, Vienna",Tourists,Sponsors
+Place_2,Description for Place_2,Theater,"48.228104, 16.299095",Public,Mon-Fri,https://www.Place_2.com,"Theater, Vienna",Families,Private Investors
+Place_3,Description for Place_3,Cafe,"48.135571, 16.236303",Limited Company,Mon-Fri,https://www.Place_3.com,"Cafe, Vienna",Tourists,Sponsors
+Place_4,Description for Place_4,Park,"48.143348, 16.219131",NGO,Weekends,https://www.Place_4.com,"Park, Vienna",Tourists,Sponsors
+Place_5,Description for Place_5,Park,"48.306794, 16.434681",Public,Everyday,https://www.Place_5.com,"Park, Vienna",Families,Sponsors
+Place_6,Description for Place_6,Park,"48.178972, 16.30336",Public,Everyday,https://www.Place_6.com,"Park, Vienna",Couples,Private Investors
+Place_7,Description for Place_7,Park,"48.167282, 16.341794",Public,Everyday,https://www.Place_7.com,"Park, Vienna",Students,Sponsors
+Place_8,Description for Place_8,Museum,"48.131782, 16.254277",Limited Company,Weekends,https://www.Place_8.com,"Museum, Vienna",Families,City of Vienna
+Place_9,Description for Place_9,Theater,"48.294825, 16.283837",Public,Weekends,https://www.Place_9.com,"Theater, Vienna",Students,Sponsors
+Place_10,Description for Place_10,Museum,"48.318638, 16.464152",Limited Company,Weekends,https://www.Place_10.com,"Museum, Vienna",Tourists,Sponsors
+Place_11,Description for Place_11,Restaurant,"48.258468, 16.328034",Public,Everyday,https://www.Place_11.com,"Restaurant, Vienna",Tourists,City of Vienna
+Place_12,Description for Place_12,Theater,"48.17499, 16.480814",NGO,Weekends,https://www.Place_12.com,"Theater, Vienna",Families,City of Vienna
+Place_13,Description for Place_13,Theater,"48.197364, 16.283243",Limited Company,Mon-Fri,https://www.Place_13.com,"Theater, Vienna",Students,City of Vienna
+Place_14,Description for Place_14,Theater,"48.240369, 16.418383",Limited Company,Mon-Fri,https://www.Place_14.com,"Theater, Vienna",Students,Private Investors
+Place_15,Description for Place_15,Park,"48.2092, 16.341855",Public,Everyday,https://www.Place_15.com,"Park, Vienna",Couples,Sponsors
+Place_16,Description for Place_16,Theater,"48.212341, 16.217929",NGO,Mon-Fri,https://www.Place_16.com,"Theater, Vienna",Tourists,City of Vienna
+Place_17,Description for Place_17,Theater,"48.276243, 16.422313",NGO,Everyday,https://www.Place_17.com,"Theater, Vienna",Couples,Private Investors
+Place_18,Description for Place_18,Park,"48.170791, 16.356483",Limited Company,Mon-Fri,https://www.Place_18.com,"Park, Vienna",Families,Private Investors
+Place_19,Description for Place_19,Park,"48.260439, 16.251588",NGO,Weekends,https://www.Place_19.com,"Park, Vienna",Families,City of Vienna
+Place_20,Description for Place_20,Park,"48.255395, 16.447723",Public,Everyday,https://www.Place_20.com,"Park, Vienna",Tourists,Private Investors
