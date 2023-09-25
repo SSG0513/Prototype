@@ -1,1 +1,139 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Iss mich",
+        "description": "Utilizes wasted vegetables that did not meet retail standards due to aesthetics to create healthy cuisine. This innitiative provides catering in and around Vienna as well as an online shop to purchase ingredients.",
+        "type": "initiative",
+        "status": "active",
+        "location": "Vienna, Austria",
+        "form": "",
+        "date": "2014",
+        "keywords": "Sustainable, waste, food, distribution, social entrepreneurship, social economy",
+        "link": "http://www.issmich.at/",
+        "image_file": "default.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.3738, 48.2082]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aquaponic Austria",
+        "description": "Aquaponic is the cultivation of fish and plants together in a constructed ecosystem using natural bacterial cycles to convert fish waste to nutrients. The association promotes the concept in Austria.",
+        "type": "initiative",
+        "status": "inactive/inconclusive",
+        "location": "Vienna, Austria",
+        "form": "",
+        "date": "2013",
+        "keywords": "ecosystem, environment, waste",
+        "link": "http://www.aquaponic-austria.at",
+        "image_file": "default.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.3738, 48.2082]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Junior City Farmers Schönbrunn",
+        "description": "In the heart of Vienna, under expert, age-appropriate guidance, children and pre-teens aged between 4 and 12 plant vegetables, harvest, cook and eat together, play in a miniature (fairytale) pine forest, and frolic through nature among fruit trees.",
+        "type": "initiative",
+        "status": "inactive",
+        "location": "Vienna, Austria",
+        "form": "",
+        "date": "2011 - 2017",
+        "keywords": "diversity, education, resources, knowledge, environmental protection, sustainability, diversity",
+        "link": "",
+        "image_file": "default.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.3738, 48.2082]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Project Manaia",
+        "description": "Empowers scientists and researchers to do their own small-scale and self-sustained research in a sustainable way and with limited funds.",
+        "type": "initiative",
+        "status": "active",
+        "location": "Vienna, Austria",
+        "form": "",
+        "date": "2014",
+        "keywords": "environment, climate change, research",
+        "link": "",
+        "image_file": "default.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.3738, 48.2082]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Roadkill",
+        "description": "A citizen science project, using a smartphone to identify place where animals are frequently killed by traffic.",
+        "type": "initiative",
+        "status": "active",
+        "location": "Vienna, Austria",
+        "form": "",
+        "date": "2013",
+        "keywords": "information, social media, community research",
+        "link": "http://www.roadkill.at",
+        "image_file": "default.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.3738, 48.2082]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ruffboards",
+        "description": "Longboards made by ex-prisoners made out of old snowboads. Ruffboards produces designer, high-end longboards by upcycling used snowboards.",
+        "type": "initiative",
+        "status": "inactive",
+        "location": "Vienna, Austria",
+        "form": "",
+        "date": "2011",
+        "keywords": "upcycle, re-use, sustainable, design, empowerment, diversity, social economy and entrepreneurship",
+        "link": "",
+        "image_file": "default.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.3738, 48.2082]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "trash_design",
+        "description": "Producing elegant and high quality jewellery, furniture and accessories from recycled waste and training long-term unemployed how to re-/upcycle electric/electronic waste.",
+        "type": "initiative",
+        "status": "active",
+        "location": "Vienna, Austria",
+        "form": "",
+        "date": "2004",
+        "keywords": "",
+        "link": "http://www.trashdesign.at/",
+        "image_file": "default.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.3738, 48.2082]
+      }
+    }
+  ]
+}
 
